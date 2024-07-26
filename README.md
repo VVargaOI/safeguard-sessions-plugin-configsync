@@ -1,0 +1,1 @@
+# safeguard-sessions-plugin-configsync
